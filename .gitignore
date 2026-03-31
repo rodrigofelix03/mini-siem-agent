@@ -2,3 +2,4 @@ __pycache__/
 *.pyc
 fake_auth.log
 security-agent/events.db
+security-agent/events.db
