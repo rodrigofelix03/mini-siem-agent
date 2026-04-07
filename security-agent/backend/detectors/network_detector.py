@@ -1,4 +1,4 @@
-from utils.db import save_alert
+from backend.utils.db import save_alert
 import time
 
 # portas suspeitas comuns

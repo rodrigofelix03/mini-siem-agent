@@ -12,3 +12,7 @@ A lightweight security monitoring agent that analyzes system logs in real-time a
 - Python (Agent)
 - (Future) Spring Boot (Backend)
 - (Future) React (Dashboard)
+
+## DIT
+uvicorn backend.main:app --reload
+npm run dev
